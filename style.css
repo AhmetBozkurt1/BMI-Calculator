@@ -78,3 +78,17 @@ input[type="range"]::-webkit-slider-thumb{
     border-radius: 50%;
     cursor: pointer;
 }
+.hesapBtn{
+    border: none;
+    background-color: green;
+    padding: .4rem 3rem;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 2rem;
+    border-radius: 5px;
+}
+.hata{
+    font-size: 20px;
+    font-weight: 600;
+}
